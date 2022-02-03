@@ -13,7 +13,7 @@
  
 <div> 
 
-<a href = "jakamanda011@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:jakamanda011@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
  
   ![Snake animation](https://github.com/Jaqueline-Amanda/Jaqueline-Amanda/blob/output/github-contribution-grid-snake.svg)
